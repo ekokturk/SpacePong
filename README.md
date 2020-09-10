@@ -1,4 +1,4 @@
-# Zeron Engine
+# Space Pong
 A component based C++ Pong game built with a custom renderer as a Vancouver Film School Project.
 
 #### Dependencies:
