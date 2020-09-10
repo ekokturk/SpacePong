@@ -1,17 +1,17 @@
 # Space Pong
 A component based C++ Pong game built with a custom renderer as a Vancouver Film School Project.
 
-#### Dependencies:
+## Dependencies
 - CMake 3.8+, https://cmake.org/download/
 
-#### How to Install:
+## How to Install
 - Run 'GenerateProject.bat' to create project solution
 
-#### Play:
+## Play
 [Download Link](https://drive.google.com/file/d/1nuznMfzg5H-3PawDt1UZHuLoV8ZDh-3M/view?usp=sharing)
 
 ---
-#### Screenshots:
+## Screenshots
 
 ![](/Assets/Images/1.PNG)
 
