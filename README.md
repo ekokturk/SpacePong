@@ -7,4 +7,6 @@ A component based C++ Pong game built on a custom renderer as a Vancouver Film S
 #### How to Install:
 - Run 'GenerateProject.bat' to create project solution
 
+![](Assets/Images/1.png)
+
 Copyright (C) 2020, Eser Kokturk. All Rights Reserved.
